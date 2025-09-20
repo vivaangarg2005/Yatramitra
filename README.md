@@ -60,7 +60,7 @@ Governments struggle with:
 | ------------------ | ------------------------------------------- |
 | Frontend           | React, Vite, Tailwind CSS, Framer Motion    |
 | Backend            | Serverless / Netlify functions              |
-| Database           | MongoDB / any preferred cloud DB            |
+| Database           | MongoDB                                     |
 | Cloud & Deployment | Netlify                                     |
 | APIs               | Government Tourism APIs, Maps & Geolocation |
 | Security           | HTTPS, GDPR-compliant                       |
