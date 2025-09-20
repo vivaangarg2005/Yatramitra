@@ -92,9 +92,9 @@ All components use **Tailwind CSS** for styling and **Framer Motion** for smooth
 
 ```
 Yatramitra/
-├── public/                 # Static assets like images
+├── public/images            
 ├── src/
-│   ├── components/         # Reusable UI components
+│   ├── components/         
 │   │   ├── Navbar.jsx
 │   │   ├── Hero.jsx
 │   │   ├── Destination.jsx
@@ -103,8 +103,8 @@ Yatramitra/
 │   │   ├── HiddenGems.jsx
 │   │   ├── Impact.jsx
 │   │   └── Footer.jsx
-│   ├── index.css           # Global styles
-│   ├── app.css             # App-specific styles
+│   ├── index.css          
+│   ├── app.css           
 │   ├── App.jsx
 │   └── main.jsx
 ├── package.json
