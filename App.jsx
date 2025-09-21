@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import Hero from "./components/Hero";
 import Navbar from "./components/navbar";
@@ -10,12 +10,16 @@ import DestinationCard from "./components/Destination";
 import HiddenGems from "./components/HiddenGems";
 
 function App() {
+  const [key, setKey] = useState(0);
+
   useEffect(() => {
+    setKey(Date.now());
+
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
   return (
-    <div>
+    <div key={key}>
       <Navbar />
       <div id="home">
         <Hero />
