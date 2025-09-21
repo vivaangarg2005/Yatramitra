@@ -91,7 +91,7 @@ All components use **Tailwind CSS** for styling and **Framer Motion** for smooth
 ## 📂 Project Structure
 
 ```
-yatra-mitra/
+Yatramitra/
 ├── public/images             
 ├── src/
 │   ├── components/         
