@@ -2,6 +2,8 @@
 
 YatraMitra is a government-backed, cloud-native platform designed to help tourists, governments, and local communities make smarter, eco-conscious, and personalized travel decisions — all in a single trusted app.
 
+Access the live site here: [https://yatramitra.netlify.app](https://yatramitra.netlify.app)
+
 ---
 
 ## 🚀 Problem Statement
@@ -135,6 +137,8 @@ npm run dev
 ```
 
 4. Open your browser at [http://localhost:5173](http://localhost:5173)
+
+Or access the live site at [https://yatramitra.netlify.app](https://yatramitra.netlify.app)
 
 ---
 
