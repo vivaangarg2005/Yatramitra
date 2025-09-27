@@ -1,6 +1,6 @@
-# 🌟 YatraMitra – India’s Smart Tourism Companion (Smart India Hackathon 2025)
+# 🌟 YatraMitra – India’s Smart Tourism Companion
 
-YatraMitra is a government-backed, cloud-native platform designed for the **Smart India Hackathon 2025** under the Travel & Tourism theme. It helps tourists, governments, and local communities make smarter, eco-conscious, and personalized travel decisions — all in a single trusted app.
+YatraMitra is a government-backed, cloud-native platform designed to help tourists, governments, and local communities make smarter, eco-conscious, and personalized travel decisions — all in a single trusted app.
 
 ---
 
@@ -59,7 +59,7 @@ Governments struggle with:
 | Layer              | Technology                                  |
 | ------------------ | ------------------------------------------- |
 | Frontend           | React, Vite, Tailwind CSS, Framer Motion    |
-| Backend            |  Netlify functions                          |
+| Backend            | Netlify functions                           |
 | Database           | MongoDB                                     |
 | Cloud & Deployment | Netlify                                     |
 | APIs               | Government Tourism APIs, Maps & Geolocation |
