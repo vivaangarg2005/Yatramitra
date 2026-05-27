@@ -24,7 +24,6 @@ Governments struggle with:
 ---
 
 ## 💡 Our Solution
-
 **YatraMitra** bridges these gaps by offering:
 
 ### For Travelers
